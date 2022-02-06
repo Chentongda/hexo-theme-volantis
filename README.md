@@ -4,5 +4,6 @@
 
 
 > 自用仓库，基于 volantis 的个人修改~
+>> **Fork** https://github.com/volantis-x/hexo-theme-volantis
 
 <u>*A Wonderful Theme for Hexo~*</u>
