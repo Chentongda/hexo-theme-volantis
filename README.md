@@ -7,3 +7,9 @@
 >> **Fork** https://github.com/volantis-x/hexo-theme-volantis
 
 <u>*A Wonderful Theme for Hexo~*</u>
+
+---
+
+```bash
+git submodule add https://github.com/Chentongda/volantis.git themes/volantis
+```
